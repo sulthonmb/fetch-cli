@@ -8,6 +8,8 @@ A command-line interface (CLI) tool with TypeScript and Commander.js to effortle
 
 - Easy-to-use CLI for fetching web content.
 - Multiple web pages
+- Download all assets web pages
+- Metadata web pages
 - Built with TypeScript for type safety.
 - Cheerio for intuitive command parsing.
 - Powered by Commander.js, the complete solution for node.js command-line interfaces.
